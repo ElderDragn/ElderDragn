@@ -1,4 +1,4 @@
-![BannerGIF](https://github.com/Jacob-try-code/Jacob-try-code/blob/main/banner.gif)
+<!-- ![BannerGIF](TBD) -->
 
 #  💻 Jacob Eldred
 
