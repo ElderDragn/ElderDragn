@@ -1,14 +1,5 @@
 <!-- ![BannerGIF](TBD) -->
 
-#  💻 Jacob Eldred
-
-I am a full stack engineer with a special interest in front-end development. I'm passionate about solving problems
-
-- 🕵🏻‍♂️ I’m currently looking for work!
-<!-- - 🧑🏻‍💻 I'm currently working as a(n) [\_] for [\_] -->
-- 🔭 I’m currently working on portfolio web page
-
-
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
